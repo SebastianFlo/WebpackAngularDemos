@@ -1,0 +1,27 @@
+{
+  "name": "sebastian-webpack-tut",
+  "version": "1.0.0",
+  "description": "Learning how webpack works with angular",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SebastianFlo/WebpackAngularDemos.git"
+  },
+  "keywords": [
+    "webpack",
+    "angular"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SebastianFlo/WebpackAngularDemos/issues"
+  },
+  "homepage": "https://github.com/SebastianFlo/WebpackAngularDemos#readme",
+  "devDependencies": {
+    "webpack": "^1.12.13",
+    "webpack-dev-server": "^1.14.1"
+  }
+}

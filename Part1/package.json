@@ -4,8 +4,7 @@
   "description": "Webpack Angular Demo: Setup",
   "main": "index.js",
   "scripts": {
-    "start": "node node_modules/.bin/webpack-dev-server --content-base app --hot",
-    "start-win": "node_modules\\.bin\\webpack-dev-server.cmd -—content-base app --hot"
+    "start": "node ../node_modules/.bin/webpack-dev-server --content-base app --hot"
   },
   "author": "Shawn McKay <shawn.j.mckay@gmail.com>",
   "license": "ISC",
@@ -24,7 +23,6 @@
     "babel-preset-es2015": "6.3.13"
   },
   "dependencies": {
-    "angular": "^1.4.8",
-
+    "angular": "^1.4.8"
   }
 }

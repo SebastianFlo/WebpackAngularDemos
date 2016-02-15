@@ -5,3 +5,5 @@ module.exports = function () {
   /* JS */
   require('angular');
 };
+
+console.log('Martin');
